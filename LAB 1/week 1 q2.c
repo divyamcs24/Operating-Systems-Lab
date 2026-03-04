@@ -19,3 +19,4 @@ void main()
     }
     printf("Sum of left diagonal elements = %d", sum);
 }
+
