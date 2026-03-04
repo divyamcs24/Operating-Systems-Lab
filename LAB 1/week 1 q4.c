@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int n,large,sec_large,count=0;
+    int n,count=0;
     printf("Enter number of elements: ");
     scanf("%d",&n);
     int a[n];
@@ -22,3 +22,4 @@ void main()
     }
     printf("Number of duplicate elements = %d",count);
 }
+
