@@ -2,7 +2,7 @@
 #include<limits.h>
 void main()
 {
-    int n,large,sec_large,pos;
+    int n,pos;
     printf("Enter number of elements: ");
     scanf("%d",&n);
     int a[n];
@@ -27,3 +27,4 @@ void main()
         printf("%d ",a[i]);
     }
 }
+
