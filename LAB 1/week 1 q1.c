@@ -27,3 +27,4 @@ void main()
     }
     printf("Second smallest element is %d",sec_small);
 }
+
